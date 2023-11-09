@@ -27,9 +27,9 @@ class Main
   end
 end
 
-  def main
-    app = Main.new
-    app.start
-  end
+def main
+  app = Main.new
+  app.start
+end
 
 main
