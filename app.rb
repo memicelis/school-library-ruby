@@ -11,7 +11,6 @@ require_relative 'modules/rental_handler'
 require_relative 'modules/user_input_handler'
 require_relative 'modules/select_options'
 
-
 class App
   include ListPrinter
   include BookHandler
