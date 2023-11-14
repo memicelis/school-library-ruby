@@ -71,6 +71,7 @@
 - **Set up associations**
 - **add basic UI**
 - **Refactored code**
+- **Unit tests**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +110,8 @@ This project does not require installation.
 
 ### Run tests
 
-To run tests, run the following command: **Not available**.
+To run tests, run the following command: 
+- **rspec spec**
 
 ### Deployment
 
@@ -133,7 +135,6 @@ You can deploy this project using: **Not available**.
 ## 🔭 Future Features <a name="future-features"></a>
 
 - preserve data
-- unit tests
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
