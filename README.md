@@ -72,6 +72,7 @@
 - **add basic UI**
 - **Refactored code**
 - **Unit tests**
+- **Preserve data**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +135,7 @@ You can deploy this project using: **Not available**.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- preserve data
+- Improvements to performance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
