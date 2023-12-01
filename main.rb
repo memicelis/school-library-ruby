@@ -1,8 +1,11 @@
 require_relative 'app'
+require_relative 'save_data'
 
 class Main
   def start
     new_app = App.new
+    new_app.read_data_from_files
+
     loop do
       display_options
       option = gets.chomp
@@ -11,6 +14,8 @@ class Main
 
       new_app.selected_option(option)
     end
+
+    new_app.save_all_data
   end
 
   private
