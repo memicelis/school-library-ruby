@@ -68,6 +68,7 @@
 
 - **Classes in Ruby**
 - **Decorator**
+- **Set up associations**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,7 +130,6 @@ You can deploy this project using: **Not available**.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- set up associations
 - add basic UI
 - refactor your code
 - preserve data
