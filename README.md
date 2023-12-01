@@ -69,6 +69,7 @@
 - **Classes in Ruby**
 - **Decorator**
 - **Set up associations**
+- **add basic UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +104,7 @@ This project does not require installation.
 **To run the project follow the following instruction:-**
 
 - Clone this [repository](https://github.com/memicelis/school-library-ruby) in your local machine with correct branch.
-- Run **ruby person.rb**
+- Run **ruby main.rb**
 
 ### Run tests
 
@@ -130,7 +131,6 @@ You can deploy this project using: **Not available**.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- add basic UI
 - refactor your code
 - preserve data
 - unit tests
